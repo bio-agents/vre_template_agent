@@ -1,32 +1,3 @@
-[
-    {
-        "_id": "unique_file_id_5e14abe0a37012.29503907",
-        "type": "file",
-        "file_path": "example/hello.txt",
-        "file_type": "TXT",
-        "data_type": "input_file",
-        "compressed": 0,
-        "sources": [],
-        "user_id": "user_id",
-        "creation_time": {
-            "$date": {
-                "$numberLong": 1612777323000
-            }
-        },
-        "meta_data": {
-            "size": 0,
-            "project": "example",
-            "atime": {
-                "$date": {
-                    "$numberLong": 1612777323000
-                }
-            },
-            "parentDir": "unique_file_id_5e14abe0a37742.64003100",
-            "lastAccess": {
-                "$date": {
-                    "$numberLong": 1612777323000
-                }
-            }
-        }
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a941ec529621c5320e8b82f2e174e8c4f7a7dccb3dee3726c75cff7f4db222a
+size 824
